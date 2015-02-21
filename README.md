@@ -1,3 +1,3 @@
 # Learnyounode
-A series of Node.js workshops
+A series of Node.js workshops provided by Nodeschool
 
