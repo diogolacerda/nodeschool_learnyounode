@@ -1,3 +1,6 @@
 # Learnyounode
-A series of Node.js workshops provided by Nodeschool
 
+
+1. Install [Node.js](http://nodejs.org/)
+2. Run `sudo npm install learnyounode -g`
+3. Run `learnyounode`
